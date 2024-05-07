@@ -6,7 +6,7 @@
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="lineage-16.0" />
 	<project path="kernel/huawei/msm8916" name="sathishkumar1027/android_kernel_huawei_hwt1a21l" revision="android-5.X-stock" />
 	-->
-	<project path="kernel/huawei/msm8916" name="LineageOS/android_kernel_huawei_msm8916" revision="lineage-16.0" />
+	<project path="kernel/huawei/msm8916" name="sathishkumar1027/android_kernel_huawei_msm8916" revision="lineage-16.0" />
 	<project path="device/huawei/msm8916-common" name="LineageOS/android_device_huawei_msm8916-common" revision="lineage-16.0" />
 	<project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" revision="lineage-16.0" />
 	
