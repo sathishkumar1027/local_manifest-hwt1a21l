@@ -2,12 +2,15 @@
 <manifest>
 
     <!-- hwt1a21l -->	
-	<project path="device/huawei/hwt1a21l" name="sathishkumar1027/android_device_huawei_hwt1a21l" revision="cm-14.1-test" />
+	<!-- --
 	<project path="device/huawei/msm8916-common" name="LineageOS/android_device_huawei_msm8916-common" revision="lineage-16.0" />
 	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="lineage-16.0" />
 	<project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" revision="lineage-16.0" />
+	-->
+	
+	<project path="device/huawei/hwt1a21l" name="sathishkumar1027/android_device_huawei_hwt1a21l" revision="cm-14.1-test" />
 	<project path="kernel/huawei/msm8916" name="sathishkumar1027/android_kernel_huawei_hwt1a21l" revision="android-5.X-stock" />
-
+	
 	<!-- Propietary -->	
 	<project path="vendor/huawei/hwt1a21l" name="sathishkumar1027/android_vendor_huawei_hwt1a21l" revision="master" />
 	<project path="vendor/huawei" name="TheMuppets/proprietary_vendor_huawei" revision="cm-14.1" />
